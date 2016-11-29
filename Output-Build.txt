@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: PROJECT 2, Configuration: Debug Any CPU ------
+1>C:\Users\Asus\Documents\Visual Studio 2015\Projects\PROJECT 2\PROJECT 2\Form1.cs(71,29,71,30): warning CS0168: The variable 'y' is declared but never used
+1>C:\Users\Asus\Documents\Visual Studio 2015\Projects\PROJECT 2\PROJECT 2\Form1.cs(102,30,102,31): warning CS0168: The variable 'y' is declared but never used
+1>  PROJECT 2 -> C:\Users\Asus\Documents\Visual Studio 2015\Projects\PROJECT 2\PROJECT 2\bin\Debug\PROJECT 2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
