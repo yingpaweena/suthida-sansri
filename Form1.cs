@@ -13,7 +13,7 @@ namespace PROJECT_2
 {
     public partial class Form1 : Form
     {
-        DataTable datatable = new DataTable();
+        DataTable datatable = new DataTable();//คลาสของ  DataTable
        
         public Form1()
         {
